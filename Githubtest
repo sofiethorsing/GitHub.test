@@ -17,7 +17,8 @@
     </header>
     
     <div>
-        <h1>Dette er en overskrift</h2>
+        <h1>Dette er en overskrift</h1>
+        <h2>Dette er en mindre overskrift</h2>
       </div>
     
 </body>
