@@ -16,5 +16,9 @@
         <a href="http://www.sofiethorsing.dk/blog"> Link til min hjemmeside</a>
     </header>
     
+    <div>
+        <h1>Dette er en overskrift</h2>
+      </div>
+    
 </body>
 </html>
